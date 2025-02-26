@@ -3,3 +3,6 @@ name = "sheikh kawish zia "
 split = name.split()
 lenght = len(split)
 print('the lenght of name is', lenght)
+reverse = name.split()
+reverse.reverse()
+print('reverse name is', reverse)
